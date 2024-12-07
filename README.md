@@ -1,6 +1,6 @@
 # Dashboard PHP/HTML con Bootstrap
 
-![Dashboard Preview](assets/images/img_dashboard.png)
+![Dashboard Preview](img_dashboard.png)
 
 ## Descrizione
 Questa è una semplice dashboard creata utilizzando **PHP**, **HTML**, e **Bootstrap**. La dashboard include una barra laterale con menu a fisarmonica, che contiene diverse sezioni come Admin, Ordini, Inventario, e molto altro.
