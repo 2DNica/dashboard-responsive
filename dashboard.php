@@ -122,7 +122,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col py-3">
+                <div class="col py-3 bg-secondary bg-gradient ">
                     <h3>Left Sidebar with Submenus</h3>
                     <p class="lead">
                         Barra laterale sinistra con sottomenu
